@@ -15,7 +15,7 @@ O projeto demonstra comunicação entre tarefas, exclusão mútua, filas, semáf
 | Nome | Matrícula |
 |---|---|
 |Cleisson de Alencar Ramos | 122211354 | 
-| Nome do integrante 2 | Matrícula | 
+| Ubirajara Possiano da Silva Filho | 120210436 | 
 
 
 ## Objetivo
@@ -173,7 +173,7 @@ Essa abordagem reduz a dependência de atrasos iniciados separadamente, pois o e
 Cada toque no switch de modo alterna entre os três modos.
 
 
-**Simulação Wokwi:** `(https://wokwi.com/projects/470478981345713153)`
+**Simulação Wokwi:** `https://wokwi.com/projects/470460086002079745`
 
 
 
